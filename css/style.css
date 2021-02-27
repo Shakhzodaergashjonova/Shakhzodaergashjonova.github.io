@@ -1,0 +1,26 @@
+body{
+	background-color: #ffcccc;
+}
+h1{
+	color:  #ff3385;
+	font-family: "Brush Script STD", cursive;
+	font-weight: 900;
+}
+h2{
+	color:#ff3385;
+	font-family: "Brush Script MT", cursive;
+}
+p{
+	color:  #ff6666;
+	font-family: "brush script", cursive; 
+}
+b{
+	color:   #0066ff;
+}
+i{
+	color:  #e6005c;
+}
+li{
+	font-family: "brush script", cursive;
+	color: #ff6666;
+}
